@@ -15,6 +15,7 @@ int main() {
     //Testando se o inverso da string é igual a string original
     if (!strcmp(palindromo,texto))
     {
+        // Se for igual é um palind
         printf("E um palindromo");
     } else {
         printf("Nao e um palindromo");
